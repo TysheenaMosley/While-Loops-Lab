@@ -6,23 +6,26 @@ Course: CSS 255
 Module: 9  
 
 ## Description
-This repository contains Python programs demonstrating the use of while loops.
+This repository contains Python programs demonstrating the use of while loops, including infinite loops, counters, user input, and conditional logic.
 
 ## Files Included
 
-### Problem 1 – Infinite Loop
-Prints the word "Infinite" continuously using a while loop.
+### Problem1Infinite.py
+Creates an infinite loop that continuously prints "Infinite".
 
-### Problem 2 – Number List 0–10
-Creates a list of numbers from 0 to 10 using a while loop.
+### Problem2NumList10.py
+Uses a while loop to create a list of numbers from 0 to 10.
 
-### Problem 3 – User Input Sum
-Prompts the user to enter numbers until the total exceeds 100.
+### Problem3NumList35.py
+Prompts the user to enter numbers and continues until the total exceeds 100.
 
-### Problem 4 – Divisible by 10
+### Problem4NumListDivide.py
 Creates a list of numbers divisible by 10 from 0 to 50.
 
 ## How to Run
-1. Open each file in Python IDLE
+1. Open files in Python IDLE
 2. Press F5 to run
-3. Follow any prompts (for Problem 3)
+3. Follow prompts for user input (Problem 3)
+
+## Notes
+All programs were written using Python and demonstrate basic while loop structures and logic.
